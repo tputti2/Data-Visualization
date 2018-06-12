@@ -72,4 +72,3 @@ Aesthetic:
 - Within all the categories displayed in the spatial dimension, this visualization also will give the amount representation using the radius of the circle visualized. Therefore, a legend to provide circle scale is provided on the right top of the visualization.
 
 ----------------------------------------------------------------------------------------------
-Nikolaus and Yiting worked and finished this part together. Nikolaus was in charge of coding and Yiting was responsible for writeup. We used Salem and Motionless libraries in this part. 
