@@ -32,5 +32,3 @@ and hence not showing the program level or organization level view of the datase
 
 There are certain things that we tried but could not implement like increasing the font of
 a particular number while keeping the rest of the text small.
-
-The idea behind this was discussed by Pallavi and Triveni. Writeup is contributed by Pallavi and infographic by Triveni.
