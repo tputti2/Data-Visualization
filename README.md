@@ -100,7 +100,7 @@ There will be three sample datasets provided.
 
 ## Component 4: Narrative Report Around a Dataset
 
-This is forthcoming; it will be built on the CUMTD dataset.
+Create an infographic on any one of the above datasets. Make sure you have a story to depict.
 
 ## Final Writeup
 
